@@ -38,8 +38,10 @@ git push
 
 11. Deploy to [render](https://render.com/)
 
-- Register
-- New Web Service
-- Public GitHub repository
-- Configure deploy options
-- Deploy
+> - Register
+> - New Web Service
+> - Public GitHub repository
+> - Configure deploy options
+> - Deploy
+
+12. Mock API is live in: [https://the-triple-three-mock-api.onrender.com](https://the-triple-three-mock-api.onrender.com)
