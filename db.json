@@ -398,5 +398,7 @@
             ]
         }
     ],
-    "image": "https://licorhouse.com/cdn/shop/files/Licor_House_Banner_1800x1100_b8621e94-2a9c-40ac-b2bc-b7b504186680_580x.png?v=1698696146"
+    "promo": {
+        "urlImage": "https://licorhouse.com/cdn/shop/files/Licor_House_Banner_1800x1100_b8621e94-2a9c-40ac-b2bc-b7b504186680_580x.png?v=1698696146"
+    }
 }
